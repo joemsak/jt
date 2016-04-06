@@ -1,0 +1,19 @@
+{
+  "name": "journey-together",
+  "version": "1.0.0",
+  "description": "dating for travelers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/joemsak/jt.git"
+  },
+  "author": "Joe Sak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joemsak/jt/issues"
+  },
+  "homepage": "https://github.com/joemsak/jt#readme"
+}
